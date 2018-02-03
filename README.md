@@ -10,7 +10,6 @@ Bootstrap 4 z małymi modyfikacjami na potrzeby serwisu Moja Ostrołęka.
 1. Zmodyfikowane pliki otrzymamy w `bootstrap/dist/`.
 1. Kopiujemy je do katalogu głównego `dist/` i publikujemy w npm.
 
-
 # Ustawienia
 
 ```
