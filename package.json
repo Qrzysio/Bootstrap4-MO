@@ -1,10 +1,10 @@
 {
   "name": "bootstrap4-mo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modified Bootstrap 4 theme for moja-ostroleka.pl website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "mo":   "cp -R bootstrap/dist/ ./"
   },
   "repository": {
     "type": "git",
